@@ -55,4 +55,3 @@ python main_orchestrator.py
 *   **Telemetry Stream:** Replace local `mock_telemetry.csv` with **Google Cloud Pub/Sub** real-time ingestion.
 *   **Audit Logging:** Stream all agent reasoning logs into **BigQuery** for FAA/ICAO regulatory reporting.
 
-*Part of the Airline Operational AI Hub — Built to demonstrate scalable AI engineering practices for modern aviation operations.*
