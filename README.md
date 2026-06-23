@@ -1,4 +1,3 @@
-
 ✈️ Airline Operational AI Hub
 Enterprise-Grade Multi-Agent Orchestration for Aviation Compliance & Operations
 
@@ -21,7 +20,7 @@ airline-operational-ai-hub/
 ├── crews/
 │   ├── tech_ops/             # Automated Compliance & Dispatch
 │   ├── flight_ops/ 
-│   └── pax_ops/          
+│   └── pax_ops/  
 ├── data/                     # Source telemetry & registry assets
 ├── requirements.txt          # Dependency manifest
 └── .gitignore                # Security & environment exclusions
@@ -29,25 +28,7 @@ airline-operational-ai-hub/
 🚀 Deployment Guide
 Clone the repository:
 
-git clone https://github.com/laxmitesting/aviation-multiagent-system.git
+git clone [https://github.com/laxmitesting/aviation-multiagent-system.git](https://github.com/laxmitesting/aviation-multiagent-system.git)
 
  **Environment Setup:**
    Create a `.env` file in the root with your credentials:
-   ```text
-OPENAI_API_KEY=your_key_here
-
-Execution:
-
-pip install -r requirements.txt
-python main_orchestrator.py
-
-
----
-
-## ☁️ Cloud Strategy (GCP Migration)
-This architecture is built for enterprise-grade scalability on Google Cloud Platform:
-*   **Compute:** Deployment on **Cloud Run** for event-driven, serverless execution.
-*   **Data:** Migration of local data to **Firestore** (Registry) and **BigQuery** (Audit Logging).
-*   **Security:** Integration with **Identity-Aware Proxy (IAP)** to manage the Human-in-the-Loop dispatch gate.
-
-***
