@@ -21,7 +21,7 @@ Line Mechanic Foreman: Synthesizes findings, flags regulatory non-compliance, an
 🛠️ Tech Stack
 Framework: CrewAI (Hierarchical & Sequential Task Orchestration)
 
-LLM Engine: OpenAI gpt-4o-mini
+LLM Engine: OpenAI gpt-5.4-mini
 
 Tooling: Custom Python classes for secure file and registry interaction.
 
