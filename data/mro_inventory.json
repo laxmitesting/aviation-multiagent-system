@@ -1,0 +1,22 @@
+{
+  "registry": {
+    "N102HX": {
+      "model": "Cessna 172",
+      "certified_nav_equipment": ["S"],
+      "transponder": "Mode_C",
+      "status": "FULLY_OPERATIONAL"
+    },
+    "N104HX": {
+      "model": "Piper PA28",
+      "certified_nav_equipment": ["S"],
+      "transponder": "Mode_S_No_ADS_B",
+      "status": "GPS_DEGRADED_MEL_ACTIVE"
+    },
+    "N105HX": {
+      "model": "Boeing 737-800",
+      "certified_nav_equipment": ["S", "G", "W", "R"],
+      "transponder": "Mode_S_Extended_Squitter",
+      "status": "FULLY_OPERATIONAL"
+    }
+  }
+}

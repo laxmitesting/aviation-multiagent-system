@@ -1,0 +1,5 @@
+flight_number,tail_number,aircraft_type,filed_equipment_codes,filed_surveillance_codes,status
+HZ101,N102HX,C172,S_C,C,NORMAL
+HZ102,N105HX,B738,S_G_W,L_B1,NORMAL
+HZ204,N104HX,PA28,S_B_G_R,B1,PENDING
+HZ305,N108HX,C210,S_G,C,PENDING

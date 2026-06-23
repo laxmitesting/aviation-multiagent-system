@@ -1,0 +1,4 @@
+crewai==0.28.8 # crewai version
+python-dotenv
+langchain-openai
+crewai-tools

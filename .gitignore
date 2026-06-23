@@ -1,0 +1,10 @@
+# Security
+.env
+
+# Local Environments
+venv/
+.venv/
+__pycache__/
+
+# Output files (Keep the repo clean)
+output/
